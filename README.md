@@ -33,6 +33,7 @@ I'm an Industrial Engineer with a Master's degree in Artificial Intelligence and
 **Programming & Backend**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -45,6 +46,7 @@ I'm an Industrial Engineer with a Master's degree in Artificial Intelligence and
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React (Basic)](https://img.shields.io/badge/React-Basic-61DAFB?style=flat-square&logo=react&logoColor=black)
 
@@ -67,7 +69,8 @@ I'm an Industrial Engineer with a Master's degree in Artificial Intelligence and
 | **Backend Engineering** | Go, .NET, REST APIs, SQL Server integration, structured logging |
 | **Databases & Automation** | T-SQL, SQL Server Agent, scheduled tasks, backup workflows |
 | **Linux & Infrastructure** | Rocky Linux, Ubuntu, SSH/SFTP, access controls, VMware |
-| **Web Development** | HTML, CSS, Sass, JavaScript, basic React |
+| **Web Development** | HTML, CSS, Sass, JavaScript, jQuery, basic React |
+| **Additional Languages** | Rust (knowledge) |
 | **AI & Engineering** | Artificial intelligence, process optimization, automation |
 
 ## 💼 Professional Projects
