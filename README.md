@@ -5,7 +5,7 @@
 
 ### Industrial Engineer · Master's in Artificial Intelligence
 
-**Software Development · AI & Automation · Backend · Infrastructure**
+**Software Development · Web Development · AI & Automation · Backend · Infrastructure**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Makzimo-181717?style=for-the-badge&logo=github)](https://github.com/Makzimo)
 
@@ -13,10 +13,11 @@
 
 ## 👨‍💻 About Me
 
-I'm an Industrial Engineer with a Master's degree in Artificial Intelligence and a Diploma in Web Development. I combine software engineering, process improvement, automation, and infrastructure to develop practical solutions. I have also designed and developed a custom CRM for my company, Windows desktop applications, and Python-based business dashboards.
+I'm an Industrial Engineer with a Master's degree in Artificial Intelligence and a Diploma in Web Development. I combine software engineering, web development, process improvement, automation, and infrastructure to develop practical solutions. I have also designed and developed a custom CRM for my company, Windows desktop applications, and Python-based business dashboards.
 
 - 🖥️ Custom CRM development and Windows desktop applications (.exe) with VB.NET and Python
 - 📈 Business dashboards and data visualization with Python
+- 🌐 Web development with HTML, CSS, Sass, JavaScript and jQuery; foundational React knowledge
 - 🔧 Backend development, REST APIs, and enterprise systems integration
 - 🧠 Artificial intelligence and business process automation
 - 🗄️ SQL Server administration and database workflows
@@ -69,7 +70,7 @@ I'm an Industrial Engineer with a Master's degree in Artificial Intelligence and
 | **Backend Engineering** | Go, .NET, REST APIs, SQL Server integration, structured logging |
 | **Databases & Automation** | T-SQL, SQL Server Agent, scheduled tasks, backup workflows |
 | **Linux & Infrastructure** | Rocky Linux, Ubuntu, SSH/SFTP, access controls, VMware |
-| **Web Development** | HTML, CSS, Sass, JavaScript, jQuery, basic React |
+| **Web Development** | Website and web interface development with HTML, CSS, Sass, JavaScript and jQuery; basic React |
 | **Additional Languages** | Rust (knowledge) |
 | **AI & Engineering** | Artificial intelligence, process optimization, automation |
 
