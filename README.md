@@ -33,6 +33,13 @@ In chronological order:
 4. **Diploma in Artificial Intelligence**
 5. **Master's in Artificial Intelligence** — Started in 2026; currently in progress
 
+## ⚖️ Additional Professional Background
+
+- **Public Auctioneer (Martillero Público)** — Chile
+- **Knowledge of Chilean legal and regulatory matters** relevant to my company's business activities
+
+This background complements my engineering and technology experience. It does not imply qualification to practice law.
+
 ## 🛠️ Tech Stack
 
 **Programming & Backend**
