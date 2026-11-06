@@ -3,7 +3,7 @@
 
 # Hi, I'm Max 👋
 
-### Industrial Engineer · Master's in Artificial Intelligence
+### Industrial Engineer · Master's Student in Artificial Intelligence
 
 **Software Development · Web Development · AI & Automation · Backend · Infrastructure**
 
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an Industrial Engineer with a Master's degree in Artificial Intelligence and a Diploma in Web Development. I combine software engineering, web development, process improvement, automation, and infrastructure to develop practical solutions. I have also designed and developed a custom CRM for my company, Windows desktop applications, and Python-based business dashboards.
+I'm an Industrial Engineer with a Diploma in Web Development, a Python course completed on Udemy, and a Diploma in Artificial Intelligence. In 2026, I began a Master's program in Artificial Intelligence (currently in progress). I combine software engineering, web development, process improvement, automation, and infrastructure to develop practical solutions. I have also designed and developed a custom CRM for my company, Windows desktop applications, and Python-based business dashboards.
 
 - 🖥️ Custom CRM development and Windows desktop applications (.exe) with VB.NET and Python
 - 📈 Business dashboards and data visualization with Python
@@ -23,11 +23,15 @@ I'm an Industrial Engineer with a Master's degree in Artificial Intelligence and
 - 🗄️ SQL Server administration and database workflows
 - 🐧 Linux configuration, SSH, and SFTP services on Rocky Linux
 
-## 🎓 Education & Specializations
+## 🎓 Education & Training
 
-- **Industrial Engineering**
-- **Master's Degree in Artificial Intelligence**
-- **Diploma in Web Development** — HTML, CSS, Sass
+In chronological order:
+
+1. **Industrial Engineering** — Professional degree
+2. **Diploma in Web Development** — HTML, CSS, Sass
+3. **Python Course (Udemy)** — Python programming
+4. **Diploma in Artificial Intelligence**
+5. **Master's in Artificial Intelligence** — Started in 2026; currently in progress
 
 ## 🛠️ Tech Stack
 
