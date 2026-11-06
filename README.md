@@ -13,8 +13,10 @@
 
 ## 👨‍💻 About Me
 
-I'm an Industrial Engineer with a Master's degree in Artificial Intelligence and a Diploma in Web Development. I combine software engineering, process improvement, automation, and infrastructure to develop practical solutions.
+I'm an Industrial Engineer with a Master's degree in Artificial Intelligence and a Diploma in Web Development. I combine software engineering, process improvement, automation, and infrastructure to develop practical solutions. I have also designed and developed a custom CRM for my company, Windows desktop applications, and Python-based business dashboards.
 
+- 🖥️ Custom CRM development and Windows desktop applications (.exe) with VB.NET and Python
+- 📈 Business dashboards and data visualization with Python
 - 🔧 Backend development, REST APIs, and enterprise systems integration
 - 🧠 Artificial intelligence and business process automation
 - 🗄️ SQL Server administration and database workflows
@@ -60,11 +62,26 @@ I'm an Industrial Engineer with a Master's degree in Artificial Intelligence and
 
 | Area | Technologies & Practices |
 | --- | --- |
+| **Desktop & CRM Development** | Custom enterprise CRM, Windows executables (.exe), VB.NET, Python |
+| **Dashboards & Analytics** | Python dashboards, business data visualization and reporting |
 | **Backend Engineering** | Go, .NET, REST APIs, SQL Server integration, structured logging |
 | **Databases & Automation** | T-SQL, SQL Server Agent, scheduled tasks, backup workflows |
 | **Linux & Infrastructure** | Rocky Linux, Ubuntu, SSH/SFTP, access controls, VMware |
 | **Web Development** | HTML, CSS, Sass, JavaScript, basic React |
 | **AI & Engineering** | Artificial intelligence, process optimization, automation |
+
+## 💼 Professional Projects
+
+### Custom Enterprise CRM
+Designed and developed a tailored Customer Relationship Management (CRM) system for internal company workflows and business operations.
+
+### Windows Desktop Applications (.exe)
+Developed executable desktop applications using **VB.NET** and **Python** to support business processes and internal operations.
+
+### Python Business Dashboard
+Built a dashboard with **Python** for business information visualization and analysis.
+
+> These are professional/internal projects; their source code and company data are not public.
 
 ## 🚀 Featured Projects
 
