@@ -38,8 +38,6 @@ In chronological order:
 - **Public Auctioneer (Martillero Público)** — Chile
 - **Knowledge of Chilean legal and regulatory matters** relevant to my company's business activities
 
-This background complements my engineering and technology experience. It does not imply qualification to practice law.
-
 ## 🛠️ Tech Stack
 
 **Programming & Backend**
